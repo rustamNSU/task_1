@@ -1,0 +1,8 @@
+--- MPI in matrix product for BiCGStab ---
+    Number of processors = 3
+    Vector size          = 3001
+    BiCGStab iterations  = 185
+    BiCGStab rel. error  = 1.24646e-15
+    error (l2-norm)      = 5.62945e-28
+    BiCGStab time        = 1.20728 s.
+---------------------------------------------
